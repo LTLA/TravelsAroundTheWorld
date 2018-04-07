@@ -1,5 +1,10 @@
 # Aaron's short-stay checklist
 
+## Overview
+
+The following should fit easily into a standard backpack for hand luggage.
+Wallet, phone and keys are assumed to be taken at all times.
+
 ## Important documents
 
 - Passport 
@@ -23,7 +28,7 @@ Other things to note:
 
 ## Clothing
 
-Always pack 1 full change of clothing, plus another for every 2 days of the trip (rounded up).
+Always pack `max(1, X/2)` full changes of clothing, where `X` is the total number of days of the trip.
 
 In hot destinations, 1 full change is defined as:
 
