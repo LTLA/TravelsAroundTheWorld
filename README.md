@@ -28,7 +28,7 @@ Other things to note:
 
 ## Clothing
 
-Always pack `max(1, X/2)` full changes of clothing, where `X` is the total number of days of the trip.
+Always pack `max(1, ceiling((X-2)/2))` full changes of clothing, where `X` is the total number of days of the trip.
 
 In hot destinations, 1 full change is defined as:
 
@@ -44,6 +44,8 @@ In cold destinations, 1 full change is defined as:
 - Socks, pair of
 
 Pack one pair of underpants for every night.
+
+Pack pyjamas.
 
 Take a jumper and overcoat with beanie for cold destinations. 
 
