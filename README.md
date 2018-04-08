@@ -26,6 +26,8 @@ Other things to note:
 - Phone charger
 - Adapters, UK input _and_ AUS input
 
+Turn off the radio alarm prior to leaving.
+
 ## Clothing
 
 Always pack `max(1, ceiling((X-2)/2))` full changes of clothing, where `X` is the total number of days of the trip.
