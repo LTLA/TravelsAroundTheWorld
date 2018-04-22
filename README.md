@@ -49,6 +49,8 @@ Pack one pair of underpants for every night.
 
 Pack pyjamas.
 
+Pack a bag for storing dirty clothes.
+
 Take a jumper and overcoat with beanie for cold destinations. 
 
 ## Toiletries
