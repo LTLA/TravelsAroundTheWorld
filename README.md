@@ -8,7 +8,6 @@ Wallet, phone and keys are assumed to be taken at all times.
 ## Important documents
 
 - Passport 
-- UK ID card
 - Flight itinerary 
 - Hotel accommodation
 - Transport to/from airport (UK side)
@@ -16,9 +15,7 @@ Wallet, phone and keys are assumed to be taken at all times.
 
 Other things to note:
 
-- University insurance, if applicable
 - Boarding passes, for low-cost carriers
-- Visa waiver print-out, for travel to the USA
 
 ## Electronics
 
